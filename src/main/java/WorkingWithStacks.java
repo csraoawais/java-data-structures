@@ -11,7 +11,6 @@ public class WorkingWithStacks {
         System.out.println(stack);
         Integer pop = stack.pop();
         System.out.println("the object popped = " + pop);
-
         System.out.println(stack);
 
     }
