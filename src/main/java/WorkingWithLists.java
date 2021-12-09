@@ -22,5 +22,6 @@ public class WorkingWithLists {
             System.out.println(obj.get(i));
 
         }
+
     }
 }
