@@ -7,6 +7,10 @@ public class WorkingWithLists {
         obj.add("awais");
         obj.add("javed");
         System.out.println(obj);
+        System.out.println(obj.size());
+        System.out.println(obj.contains("awais"));
+        System.out.println(obj.contains("Ali"));
+        System.out.println(obj);
 
     }
 }
